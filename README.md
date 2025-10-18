@@ -1,5 +1,5 @@
 ## Hi there
-My name is Bharasyah. I am a mechanical engineering student, and I enjoy working on projects unrelated to mechanical engineering as a way to unwind when I feel bored. These projects can be seen on this GitHub; they may not be useful, but they serve as a personal history for me. you can reach me on instagram @bharasyah_. thanks for read this unuseful readme.p
+My name is Bharasyah Hendra. I am a mechanical engineering student, and I enjoy working on projects unrelated to mechanical engineering as a way to unwind when I feel bored. These projects can be seen on this GitHub; they may not be useful, but they serve as a personal history for me. you can reach me on instagram @bharasyah_. thanks for read this unuseful readme.p 
 <!--
 **bharasyah/bharasyah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
